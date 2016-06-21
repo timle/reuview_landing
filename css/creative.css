@@ -38,7 +38,7 @@ hr.light {
 }
 
 a {
-    color: black;
+    color: #40ed86;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -498,8 +498,17 @@ header .header-content .header-content-inner p {
 
 .slide3_adj .h2s h2{
     padding-top: 30px;
+        margin-top: 100px;
+        margin-bottom: 50px;
 }
 
+.slide3_adj .h2s a{
+    
+    color: #7D6CB0;
+    font-weight: bold;
+    font-size: 60px;
+
+}
 
 
 .slide4_adj {
